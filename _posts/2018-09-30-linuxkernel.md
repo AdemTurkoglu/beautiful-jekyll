@@ -1,7 +1,7 @@
 ---
 layout: post
 image: /img/ubuntu.png
-title: Compiling linux kernel as open source
+title: Compiling Linux Kernel as Open Source
 subtitle: Linux Kernel Upgrade
 tags: [linux, sistem, programlama, kernel, upgrade]
 gh-repo: ademturkoglu/ademturkoglu.github.io
