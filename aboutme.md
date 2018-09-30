@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımda
+subtitle: Jonior Software Developer
 ---
 
-Ben Adem Türkoğlu İstanbul Üniversitesinde Bilgisayar mühendisliği öğrencisiyim :
+Ben Adem Türkoğlu İstanbul Üniversitesinde Bilgisayar mühendisliği öğrencisiyim..
 
-Bu blogda sadece teknoloji değil kültür sanat pek çok konuyu ele almak istiyorum.Site şuan yapım aşamasındadır.
+Bu blogda sadece teknoloji,ödev değil kültür sanat pek çok konuyu ele almak istiyorum.
