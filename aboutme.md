@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hakkımda
-subtitle: Jonior Software Developer
+subtitle: Junior Software Developer
 ---
 
 Ben Adem Türkoğlu İstanbul Üniversitesinde Bilgisayar mühendisliği öğrencisiyim..

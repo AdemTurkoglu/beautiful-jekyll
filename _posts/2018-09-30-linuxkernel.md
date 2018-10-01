@@ -5,7 +5,7 @@ title: Compiling Linux Kernel as Open Source
 subtitle: Linux Kernel Upgrade
 tags: [linux, sistem, programlama, kernel, upgrade]
 gh-repo: ademturkoglu/ademturkoglu.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [star,follow]
 ---
 Kernel kurulumu için öncelikle güncel kerneli indirmemiz gereklidir. [Buradan](http://www.kernel.org/) güncel kerneli indirebilirsiniz. 
 
