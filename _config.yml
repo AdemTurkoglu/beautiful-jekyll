@@ -74,14 +74,14 @@ social-network-links:
   email: "adem.turkoglu@hotmail.com"
   facebook: ademturkoglu.09
   github: ademturkoglu
-  twitter: turkogluademce
+  twitter: ademturkoglu09
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: ademturkoglu09
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ademturkoglu.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ademturkoglu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
